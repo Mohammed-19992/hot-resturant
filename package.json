@@ -1,0 +1,23 @@
+{
+  "name": "hot-resturant",
+  "version": "1.0.0",
+  "description": "Hot Resturant App",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohammed-19992/hot-resturant.git"
+  },
+  "author": "Mohammed Arafat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohammed-19992/hot-resturant/issues"
+  },
+  "homepage": "https://github.com/mohammed-19992/hot-resturant#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
